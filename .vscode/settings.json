@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "progf"
+    ],
+    "files.associations": {
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "*.html": "html",
+        "*.js": "javascript",
+        ".js": "react",
+        "*.cpp": "cpp",
+        "stdio.h": "c"
+    }
+}
